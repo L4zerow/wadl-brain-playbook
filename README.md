@@ -27,9 +27,10 @@ And turn it into:
 ## Quick Start
 
 1. **Understand the methodology:** Read [`METHODOLOGY.md`](METHODOLOGY.md)
-2. **See a real example:** Read [`REFERENCE/PRIMULA_ANALYSIS.md`](REFERENCE/PRIMULA_ANALYSIS.md)
-3. **Start a new project:** Use templates in [`TEMPLATES/`](TEMPLATES/)
-4. **Track your progress:** Use checklists in [`CHECKLISTS/`](CHECKLISTS/)
+2. **Review pricing strategy:** Read [`PRICING_STRATEGY.md`](PRICING_STRATEGY.md)
+3. **See a real example:** Read [`REFERENCE/PRIMULA_ANALYSIS.md`](REFERENCE/PRIMULA_ANALYSIS.md)
+4. **Start a new project:** Use templates in [`TEMPLATES/`](TEMPLATES/)
+5. **Track your progress:** Use checklists in [`CHECKLISTS/`](CHECKLISTS/)
 
 ---
 
@@ -126,6 +127,7 @@ Brains improve continuously through structured feedback loops:
 Playbook/
 ├── README.md                 <- You are here
 ├── METHODOLOGY.md            <- The complete methodology
+├── PRICING_STRATEGY.md       <- Value-based pricing framework
 ├── EVOLUTION.md              <- Tracks state, gaps, and changes
 │
 ├── TEMPLATES/                <- Starting points for each artifact
@@ -147,7 +149,9 @@ Playbook/
 │   ├── 02-three-layer-architecture.png
 │   ├── 03-cortex-anatomy.png
 │   ├── 04-document-relationships.png
-│   └── 05-iteration-cycle.png
+│   ├── 05-iteration-cycle.png
+│   ├── 06-pricing-gap-analysis.png
+│   └── 07-new-pricing-tiers.png
 │
 └── REFERENCE/                <- Real examples
     └── PRIMULA_ANALYSIS.md

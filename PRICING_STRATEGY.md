@@ -8,6 +8,10 @@ Based on comprehensive market research, the WADL Brain methodology delivers ente
 
 The core issue: **Domain Capture (the hardest, most valuable work) is priced the lowest.**
 
+![Pricing Gap Analysis](DIAGRAMS/06-pricing-gap-analysis.png)
+
+![New Pricing Tiers](DIAGRAMS/07-new-pricing-tiers.png)
+
 ---
 
 ## The Problem: Current vs. Market Reality
